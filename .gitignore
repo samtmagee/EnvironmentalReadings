@@ -1,1 +1,5 @@
-*.csv
+# Ignore all
+*
+
+# Don't ignore the following
+!EnvironmentalReadings.psm1
