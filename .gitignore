@@ -3,3 +3,5 @@
 
 # Don't ignore the following
 !EnvironmentalReadings.psm1
+!README.md
+!test.txt
